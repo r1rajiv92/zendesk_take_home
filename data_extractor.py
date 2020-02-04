@@ -13,7 +13,6 @@ class DataExtractor(object):
     data = None
 
     def __init__(self, name_references, location, base_directory_path):
-        self.base_directory_path = base_directory_path
         self.name_references = name_references
         self.location = base_directory_path + "/" + location
 
