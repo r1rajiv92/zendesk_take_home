@@ -1,0 +1,17 @@
+[
+  {
+    "_id": 1,
+    "name_references": ["users", "user"],
+    "location": "users.json"
+  },
+  {
+    "_id": 2,
+    "name_references": ["tickets", "ticket"],
+    "location": "tickets.json"
+  },
+  {
+    "_id": 3,
+    "name_references": ["organization", "organizations", "orgs", "org"],
+    "location": "organizations.json"
+  }
+]
